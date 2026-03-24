@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "Feat-Add-protocol-governance",
+    "Feat-Oracle-contract-updater",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "Feat-Add-protocol-governance": "main",
+    "Feat-Oracle-contract-updater": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "Feat-Add-protocol-governance",
+    "Feat-Oracle-contract-updater",
+    "origin"
+  ]
+}
